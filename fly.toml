@@ -1,0 +1,6 @@
+app = "infragora-linkify"
+
+kill_signal = "SIGINT"
+kill_timeout = 5
+
+[env]
